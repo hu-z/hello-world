@@ -1,3 +1,0 @@
-read a book
-read 2 book
-read 3 book
